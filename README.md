@@ -82,7 +82,16 @@ The following visualizations were created using Excel:
 
 ![image](https://github.com/user-attachments/assets/a0a88936-ec36-4992-ad2a-c04431d8fb75)
 
-
-
-
-
+## Insights
+- Total Revenue: The business generated a total revenue of $8,17,860 from pizza sales.
+- Average Order Value (AOV): The average value per order stands at $38.31, indicating the typical customer spend on a single order.
+- Total Pizzas Sold: A total of 49,574 pizzas were sold, showcasing the high volume of orders.
+- Sales data shows that Friday is the busiest day, with the highest number of orders placed.
+- Monday has the lowest number of orders, indicating a significant drop in demand at the start of the week.
+- Peak ordering times occur between 12 PM and 8 PM, with the majority of customers placing their orders during lunch and dinner hours.
+- Classic and Supreme pizzas have the highest sales volume, reflecting their popularity among customers. These categories are clear best-sellers.
+- Top 5 Best Sellers:
+  The Classic Deluxe Pizza is the top-selling item, driving the majority of sales. Other pizzas in the top 5 are also from the classic      and supreme categories.
+- Bottom 5 Worst Sellers:
+  The Mediterranean Supreme Pizza is the lowest-performing item, indicating low demand. This presents an opportunity to reconsider the 
+  product’s place on the menu or to promote it differently.
